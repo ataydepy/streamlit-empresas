@@ -1,4 +1,4 @@
-Avaliação de Ações com Streamlit
+# Avaliação de Ações com Streamlit
 
 Este repositório contém um projeto em Python utilizando Streamlit para analisar e visualizar a performance de ações de empresas listadas no índice IBOV. O usuário pode selecionar quais ações deseja acompanhar, definir o período de análise e acompanhar a evolução histórica dos preços.
 
